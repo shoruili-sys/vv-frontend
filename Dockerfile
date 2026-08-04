@@ -4,6 +4,10 @@
 FROM node:20-alpine AS deps
 WORKDIR /app
 
+# Força development aqui pra garantir que devDependencies (typescript, etc.)
+# sejam instaladas mesmo se o Coolify injetar NODE_ENV=production em build-time
+ENV NODE_ENV=development
+
 COPY package.json package-lock.json* ./
 RUN npm ci --no-audit --no-fund
 
