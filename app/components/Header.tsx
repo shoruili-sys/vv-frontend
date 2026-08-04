@@ -20,7 +20,7 @@ export function Footer() {
   return (
     <footer className={styles.footer}>
       <div className="container">
-        <p>© {new Date().getFullYear()} VivaVeríssimo · CRECI 000100teste · Todos os direitos reservados.</p>
+        <p>© {new Date().getFullYear()} VivaVeríssimo · CRECI 00010E · Todos os direitos reservados.</p>
       </div>
     </footer>
   );
