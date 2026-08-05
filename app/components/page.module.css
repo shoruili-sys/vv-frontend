@@ -1,0 +1,41 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(11, 11, 12, 0.8);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+}
+.headerInner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 24px;
+  max-width: var(--maxw);
+  margin: 0 auto;
+}
+.logo {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--fg);
+}
+.nav {
+  display: flex;
+  gap: 24px;
+}
+.nav a {
+  color: var(--fg-soft);
+  font-size: 0.95rem;
+}
+.nav a:hover {
+  color: var(--fg);
+  opacity: 1;
+}
+.footer {
+  border-top: 1px solid var(--border);
+  padding: 40px 0;
+  text-align: center;
+  color: var(--fg-soft);
+  font-size: 0.875rem;
+}
