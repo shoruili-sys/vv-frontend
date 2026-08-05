@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
-import { Header, Footer } from '../../components/Header';
+import { Header } from '../../components/Header';
+import { Footer } from '../../components/Footer';
 import { getLandingPageBySlug, getLandingPages, mediaUrl } from '@/lib/strapi';
 import { LeadForm } from './LeadForm';
 import styles from './page.module.css';

@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { Header, Footer } from '../components/Header';
+import { Header } from '../components/Header';
+import { Footer } from '../components/Footer';
 import { getLandingPages, mediaUrl } from '@/lib/strapi';
 import styles from '../page.module.css';
 

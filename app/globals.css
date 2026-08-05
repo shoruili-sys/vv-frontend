@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   --bg: #0b0b0c;
   --bg-soft: #141416;
@@ -65,4 +69,13 @@ h3 { font-size: 1.5rem; margin-bottom: 12px; }
   color: var(--accent);
   margin-bottom: 12px;
   display: block;
+}
+
+/* Site-wide footer styles (moved from component CSS module) */
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 40px 0;
+  text-align: center;
+  color: var(--fg-soft);
+  font-size: 0.875rem;
 }
