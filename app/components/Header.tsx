@@ -9,6 +9,8 @@ export function Header() {
         <nav className={styles.nav}>
           <Link href="/">Início</Link>
           <Link href="/imoveis">Empreendimentos</Link>
+          <Link href="/institucional">Institucional</Link>
+          <Link href="/sobre">Sobre</Link>
           <a href="#contato">Contato</a>
         </nav>
       </div>

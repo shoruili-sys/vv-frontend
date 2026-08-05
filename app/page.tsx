@@ -32,6 +32,30 @@ export default async function HomePage() {
           </div>
         </section>
 
+        <section className={styles.section}>
+          <div className="container">
+            <div className={styles.sectionHeader}>
+              <span className="eyebrow">Sobre nós</span>
+              <h2>Mais sobre a Viva Veríssimo</h2>
+              <p>Conheça nossa história e veja como atuamos com transparência e atendimento personalizado.</p>
+            </div>
+            <div className={styles.grid}>
+              <Link href="/institucional" className={styles.card}>
+                <div className={styles.cardBody}>
+                  <h3>Institucional</h3>
+                  <p>Descubra nossa missão, valores e o compromisso com clientes que buscam imóveis de qualidade.</p>
+                </div>
+              </Link>
+              <Link href="/sobre" className={styles.card}>
+                <div className={styles.cardBody}>
+                  <h3>Sobre mim</h3>
+                  <p>Saiba mais sobre a experiência e a abordagem pessoal que garantem atendimento diferenciado.</p>
+                </div>
+              </Link>
+            </div>
+          </div>
+        </section>
+
         {destaques.length > 0 && (
           <section className={styles.section}>
             <div className="container">
