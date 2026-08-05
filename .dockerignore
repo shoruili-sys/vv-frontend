@@ -6,3 +6,4 @@ out
 .git
 .DS_Store
 *.log
+*.md

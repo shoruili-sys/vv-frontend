@@ -13,7 +13,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "baseUrl": ".",
+    "baseUrl": ".", // deixar assim não corrigir, senão o Next.js não encontra os arquivos.
     //"ignoreDeprecations": "6.0",
     "plugins": [{ "name": "next" }],
     "paths": { "@/*": ["./*"] }
