@@ -16,7 +16,10 @@
     "baseUrl": ".", // deixar assim não corrigir, senão o Next.js não encontra os arquivos.
     //"ignoreDeprecations": "6.0",
     "plugins": [{ "name": "next" }],
-    "paths": { "@/*": ["./*"] }
+    "paths": {
+      "@/*": ["./*"],
+      "@proposta/*": ["./app/proposta/*"]
+    }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]

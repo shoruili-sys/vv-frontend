@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
-import { Header, Footer } from '../../components/Header';
+import { Header } from '../../components/Header';
+import { Footer } from '../../components/Footer';
 import { getLandingPageBySlug, getLandingPages, mediaUrl } from '@/lib/strapi';
 import { LeadForm } from './LeadForm';
 import styles from './page.module.css';
@@ -26,14 +27,21 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   };
 }
 
-function renderRichText(rt: any): string {
+type RichTextBlock = {
+  children?: Array<{ text?: string }>;
+};
+
+function renderRichText(rt: string | RichTextBlock[] | null | undefined): string {
   // Strapi rich-text vem como array de blocos; simplificação para plain text
   if (!rt) return '';
   if (typeof rt === 'string') return rt;
-  if (Array.isArray(rt)) {
-    return rt.map((b: any) => b?.children?.map((c: any) => c.text).join('') || '').join('\n\n');
-  }
-  return '';
+  return rt
+    .map((block) => {
+      const children = block?.children;
+      if (!Array.isArray(children)) return '';
+      return children.map((child) => child?.text || '').join('');
+    })
+    .join('\n\n');
 }
 
 export default async function LPPage({ params }: { params: { slug: string } }) {

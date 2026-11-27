@@ -1,7 +1,8 @@
+import React from 'react';
 import Link from 'next/link';
 import styles from './page.module.css';
 
-export function Header() {
+export const Header: React.FC = () => {
   return (
     <header className={styles.header}>
       <div className={styles.headerInner}>
@@ -12,18 +13,11 @@ export function Header() {
           <Link href="/institucional">Institucional</Link>
           <Link href="/sobre">Sobre</Link>
           <a href="#contato">Contato</a>
+          <Link href="/empreendimentos/taj-ibirapuera" className={styles.ctaButton}>
+            Agendar visita
+          </Link>
         </nav>
       </div>
     </header>
   );
-}
-
-export function Footer() {
-  return (
-    <footer className={styles.footer}>
-      <div className="container">
-        <p>© {new Date().getFullYear()} VivaVeríssimo · CRECI 00010E · Todos os direitos reservados.</p>
-      </div>
-    </footer>
-  );
-}
+};

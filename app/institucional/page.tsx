@@ -1,4 +1,5 @@
-import { Header, Footer } from '../components/Header';
+import { Header } from '../components/Header';
+import { Footer } from '../components/Footer';
 import styles from '../page.module.css';
 
 export const metadata = { title: 'Institucional' };

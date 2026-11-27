@@ -1,0 +1,92 @@
+Relatório de validação do catálogo de unidades
+Data: 27/11/2026 18:16:54
+PDFs processados (6):
+  - Unidades_Vitta.pdf
+  - arte_campo_limpo.pdf
+  - flow.pdf
+  - sense.pdf
+  - urban.pdf
+  - vila_marina.pdf
+Total de unidades: 710
+Total de avisos: 79
+
+Avisos:
+  - Unidades_Vitta.pdf: unidade 01-01-134 — valor total R$ 265.105,87 difere da soma das parcelas R$ 265.106,05 (sinal R$ 100,00 + comissão R$ 13.785,51 + 48x R$ 815,33 + financiamento R$ 212.084,70; diferença R$ 0,18)
+  - Unidades_Vitta.pdf: unidade 02-01-110 — valor total R$ 255.298,47 difere da soma das parcelas R$ 255.298,62 (sinal R$ 100,00 + comissão R$ 13.275,52 + 48x R$ 785,09 + financiamento R$ 204.238,78; diferença R$ 0,15)
+  - Unidades_Vitta.pdf: unidade 03-01-134 — valor total R$ 265.105,87 difere da soma das parcelas R$ 265.106,05 (sinal R$ 100,00 + comissão R$ 13.785,51 + 48x R$ 815,33 + financiamento R$ 212.084,70; diferença R$ 0,18)
+  - Unidades_Vitta.pdf: unidade 03-01-137 — valor total R$ 265.105,87 difere da soma das parcelas R$ 265.106,05 (sinal R$ 100,00 + comissão R$ 13.785,51 + 48x R$ 815,33 + financiamento R$ 212.084,70; diferença R$ 0,18)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-2 — valor total R$ 345.741,99 difere da soma das parcelas R$ 345.741,83 (sinal R$ 100,00 + comissão R$ 20.744,52 + 36x R$ 1.341,77 + financiamento R$ 276.593,59; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-3 — valor total R$ 345.741,99 difere da soma das parcelas R$ 345.741,83 (sinal R$ 100,00 + comissão R$ 20.744,52 + 36x R$ 1.341,77 + financiamento R$ 276.593,59; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-6 — valor total R$ 345.741,99 difere da soma das parcelas R$ 345.741,83 (sinal R$ 100,00 + comissão R$ 20.744,52 + 36x R$ 1.341,77 + financiamento R$ 276.593,59; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-19 — valor total R$ 224.633,00 difere da soma das parcelas R$ 224.632,82 (sinal R$ 100,00 + comissão R$ 13.477,98 + 36x R$ 870,79 + financiamento R$ 179.706,40; diferença R$ 0,18)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-25 — valor total R$ 290.868,01 difere da soma das parcelas R$ 290.868,17 (sinal R$ 100,00 + comissão R$ 17.452,08 + 36x R$ 1.128,38 + financiamento R$ 232.694,41; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-39 — valor total R$ 224.633,00 difere da soma das parcelas R$ 224.632,82 (sinal R$ 100,00 + comissão R$ 13.477,98 + 36x R$ 870,79 + financiamento R$ 179.706,40; diferença R$ 0,18)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-64 — valor total R$ 326.104,00 difere da soma das parcelas R$ 326.103,84 (sinal R$ 100,00 + comissão R$ 19.566,24 + 36x R$ 1.265,40 + financiamento R$ 260.883,20; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-85 — valor total R$ 326.104,00 difere da soma das parcelas R$ 326.103,84 (sinal R$ 100,00 + comissão R$ 19.566,24 + 36x R$ 1.265,40 + financiamento R$ 260.883,20; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-89 — valor total R$ 244.633,00 difere da soma das parcelas R$ 244.632,90 (sinal R$ 100,00 + comissão R$ 14.677,98 + 36x R$ 948,57 + financiamento R$ 195.706,40; diferença R$ 0,10)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-103 — valor total R$ 356.218,00 difere da soma das parcelas R$ 356.217,84 (sinal R$ 100,00 + comissão R$ 21.373,08 + 36x R$ 1.382,51 + financiamento R$ 284.974,40; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-109 — valor total R$ 224.633,00 difere da soma das parcelas R$ 224.632,82 (sinal R$ 100,00 + comissão R$ 13.477,98 + 36x R$ 870,79 + financiamento R$ 179.706,40; diferença R$ 0,18)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-119 — valor total R$ 244.633,00 difere da soma das parcelas R$ 244.632,90 (sinal R$ 100,00 + comissão R$ 14.677,98 + 36x R$ 948,57 + financiamento R$ 195.706,40; diferença R$ 0,10)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-122 — valor total R$ 362.024,09 difere da soma das parcelas R$ 362.023,96 (sinal R$ 100,00 + comissão R$ 21.721,45 + 36x R$ 1.405,09 + financiamento R$ 289.619,27; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-123 — valor total R$ 362.024,09 difere da soma das parcelas R$ 362.023,96 (sinal R$ 100,00 + comissão R$ 21.721,45 + 36x R$ 1.405,09 + financiamento R$ 289.619,27; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-126 — valor total R$ 362.024,09 difere da soma das parcelas R$ 362.023,96 (sinal R$ 100,00 + comissão R$ 21.721,45 + 36x R$ 1.405,09 + financiamento R$ 289.619,27; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-132 — valor total R$ 362.024,09 difere da soma das parcelas R$ 362.023,96 (sinal R$ 100,00 + comissão R$ 21.721,45 + 36x R$ 1.405,09 + financiamento R$ 289.619,27; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-133 — valor total R$ 362.024,09 difere da soma das parcelas R$ 362.023,96 (sinal R$ 100,00 + comissão R$ 21.721,45 + 36x R$ 1.405,09 + financiamento R$ 289.619,27; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-142 — valor total R$ 362.024,09 difere da soma das parcelas R$ 362.023,96 (sinal R$ 100,00 + comissão R$ 21.721,45 + 36x R$ 1.405,09 + financiamento R$ 289.619,27; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-143 — valor total R$ 362.024,09 difere da soma das parcelas R$ 362.023,96 (sinal R$ 100,00 + comissão R$ 21.721,45 + 36x R$ 1.405,09 + financiamento R$ 289.619,27; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-149 — valor total R$ 224.633,00 difere da soma das parcelas R$ 224.632,82 (sinal R$ 100,00 + comissão R$ 13.477,98 + 36x R$ 870,79 + financiamento R$ 179.706,40; diferença R$ 0,18)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-152 — valor total R$ 362.024,09 difere da soma das parcelas R$ 362.023,96 (sinal R$ 100,00 + comissão R$ 21.721,45 + 36x R$ 1.405,09 + financiamento R$ 289.619,27; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-153 — valor total R$ 362.024,09 difere da soma das parcelas R$ 362.023,96 (sinal R$ 100,00 + comissão R$ 21.721,45 + 36x R$ 1.405,09 + financiamento R$ 289.619,27; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-159 — valor total R$ 224.633,00 difere da soma das parcelas R$ 224.632,82 (sinal R$ 100,00 + comissão R$ 13.477,98 + 36x R$ 870,79 + financiamento R$ 179.706,40; diferença R$ 0,18)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-161 — valor total R$ 301.274,82 difere da soma das parcelas R$ 301.274,95 (sinal R$ 100,00 + comissão R$ 18.076,49 + 36x R$ 1.168,85 + financiamento R$ 241.019,86; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-162 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-163 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-164 — valor total R$ 336.574,50 difere da soma das parcelas R$ 336.574,39 (sinal R$ 100,00 + comissão R$ 20.194,47 + 36x R$ 1.306,12 + financiamento R$ 269.259,60; diferença R$ 0,11)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-165 — valor total R$ 336.574,50 difere da soma das parcelas R$ 336.574,39 (sinal R$ 100,00 + comissão R$ 20.194,47 + 36x R$ 1.306,12 + financiamento R$ 269.259,60; diferença R$ 0,11)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-166 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-171 — valor total R$ 301.274,82 difere da soma das parcelas R$ 301.274,95 (sinal R$ 100,00 + comissão R$ 18.076,49 + 36x R$ 1.168,85 + financiamento R$ 241.019,86; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-172 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-173 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-174 — valor total R$ 336.574,50 difere da soma das parcelas R$ 336.574,39 (sinal R$ 100,00 + comissão R$ 20.194,47 + 36x R$ 1.306,12 + financiamento R$ 269.259,60; diferença R$ 0,11)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-175 — valor total R$ 336.574,50 difere da soma das parcelas R$ 336.574,39 (sinal R$ 100,00 + comissão R$ 20.194,47 + 36x R$ 1.306,12 + financiamento R$ 269.259,60; diferença R$ 0,11)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-176 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-178 — valor total R$ 318.166,16 difere da soma das parcelas R$ 318.165,98 (sinal R$ 100,00 + comissão R$ 19.089,97 + 36x R$ 1.234,53 + financiamento R$ 254.532,93; diferença R$ 0,18)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-181 — valor total R$ 301.274,82 difere da soma das parcelas R$ 301.274,95 (sinal R$ 100,00 + comissão R$ 18.076,49 + 36x R$ 1.168,85 + financiamento R$ 241.019,86; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-182 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-184 — valor total R$ 336.574,50 difere da soma das parcelas R$ 336.574,39 (sinal R$ 100,00 + comissão R$ 20.194,47 + 36x R$ 1.306,12 + financiamento R$ 269.259,60; diferença R$ 0,11)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-185 — valor total R$ 336.574,50 difere da soma das parcelas R$ 336.574,39 (sinal R$ 100,00 + comissão R$ 20.194,47 + 36x R$ 1.306,12 + financiamento R$ 269.259,60; diferença R$ 0,11)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-186 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-188 — valor total R$ 318.166,16 difere da soma das parcelas R$ 318.165,98 (sinal R$ 100,00 + comissão R$ 19.089,97 + 36x R$ 1.234,53 + financiamento R$ 254.532,93; diferença R$ 0,18)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-191 — valor total R$ 301.274,82 difere da soma das parcelas R$ 301.274,95 (sinal R$ 100,00 + comissão R$ 18.076,49 + 36x R$ 1.168,85 + financiamento R$ 241.019,86; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-192 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-193 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-194 — valor total R$ 336.574,50 difere da soma das parcelas R$ 336.574,39 (sinal R$ 100,00 + comissão R$ 20.194,47 + 36x R$ 1.306,12 + financiamento R$ 269.259,60; diferença R$ 0,11)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-195 — valor total R$ 336.574,50 difere da soma das parcelas R$ 336.574,39 (sinal R$ 100,00 + comissão R$ 20.194,47 + 36x R$ 1.306,12 + financiamento R$ 269.259,60; diferença R$ 0,11)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-196 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-198 — valor total R$ 318.166,16 difere da soma das parcelas R$ 318.165,98 (sinal R$ 100,00 + comissão R$ 19.089,97 + 36x R$ 1.234,53 + financiamento R$ 254.532,93; diferença R$ 0,18)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-199 — valor total R$ 244.633,00 difere da soma das parcelas R$ 244.632,90 (sinal R$ 100,00 + comissão R$ 14.677,98 + 36x R$ 948,57 + financiamento R$ 195.706,40; diferença R$ 0,10)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-201 — valor total R$ 301.274,82 difere da soma das parcelas R$ 301.274,95 (sinal R$ 100,00 + comissão R$ 18.076,49 + 36x R$ 1.168,85 + financiamento R$ 241.019,86; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-203 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-204 — valor total R$ 336.574,50 difere da soma das parcelas R$ 336.574,39 (sinal R$ 100,00 + comissão R$ 20.194,47 + 36x R$ 1.306,12 + financiamento R$ 269.259,60; diferença R$ 0,11)
+  - arte_campo_limpo.pdf: unidade A-ÚNICA-205 — valor total R$ 336.574,50 difere da soma das parcelas R$ 336.574,39 (sinal R$ 100,00 + comissão R$ 20.194,47 + 36x R$ 1.306,12 + financiamento R$ 269.259,60; diferença R$ 0,11)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-29 — valor total R$ 244.633,00 difere da soma das parcelas R$ 244.632,90 (sinal R$ 100,00 + comissão R$ 14.677,98 + 36x R$ 948,57 + financiamento R$ 195.706,40; diferença R$ 0,10)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-39 — valor total R$ 244.633,00 difere da soma das parcelas R$ 244.632,90 (sinal R$ 100,00 + comissão R$ 14.677,98 + 36x R$ 948,57 + financiamento R$ 195.706,40; diferença R$ 0,10)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-49 — valor total R$ 244.633,00 difere da soma das parcelas R$ 244.632,90 (sinal R$ 100,00 + comissão R$ 14.677,98 + 36x R$ 948,57 + financiamento R$ 195.706,40; diferença R$ 0,10)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-59 — valor total R$ 224.633,00 difere da soma das parcelas R$ 224.632,82 (sinal R$ 100,00 + comissão R$ 13.477,98 + 36x R$ 870,79 + financiamento R$ 179.706,40; diferença R$ 0,18)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-119 — valor total R$ 224.633,00 difere da soma das parcelas R$ 224.632,82 (sinal R$ 100,00 + comissão R$ 13.477,98 + 36x R$ 870,79 + financiamento R$ 179.706,40; diferença R$ 0,18)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-122 — valor total R$ 362.024,09 difere da soma das parcelas R$ 362.023,96 (sinal R$ 100,00 + comissão R$ 21.721,45 + 36x R$ 1.405,09 + financiamento R$ 289.619,27; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-129 — valor total R$ 244.633,00 difere da soma das parcelas R$ 244.632,90 (sinal R$ 100,00 + comissão R$ 14.677,98 + 36x R$ 948,57 + financiamento R$ 195.706,40; diferença R$ 0,10)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-132 — valor total R$ 362.024,09 difere da soma das parcelas R$ 362.023,96 (sinal R$ 100,00 + comissão R$ 21.721,45 + 36x R$ 1.405,09 + financiamento R$ 289.619,27; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-142 — valor total R$ 362.024,00 difere da soma das parcelas R$ 362.023,88 (sinal R$ 100,00 + comissão R$ 21.721,44 + 36x R$ 1.405,09 + financiamento R$ 289.619,20; diferença R$ 0,12)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-161 — valor total R$ 301.274,82 difere da soma das parcelas R$ 301.274,95 (sinal R$ 100,00 + comissão R$ 18.076,49 + 36x R$ 1.168,85 + financiamento R$ 241.019,86; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-162 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-169 — valor total R$ 244.633,00 difere da soma das parcelas R$ 244.632,90 (sinal R$ 100,00 + comissão R$ 14.677,98 + 36x R$ 948,57 + financiamento R$ 195.706,40; diferença R$ 0,10)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-171 — valor total R$ 301.274,82 difere da soma das parcelas R$ 301.274,95 (sinal R$ 100,00 + comissão R$ 18.076,49 + 36x R$ 1.168,85 + financiamento R$ 241.019,86; diferença R$ 0,13)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-172 — valor total R$ 367.830,61 difere da soma das parcelas R$ 367.830,45 (sinal R$ 100,00 + comissão R$ 22.069,84 + 36x R$ 1.427,67 + financiamento R$ 294.264,49; diferença R$ 0,16)
+  - arte_campo_limpo.pdf: unidade B-ÚNICA-181 — valor total R$ 301.274,82 difere da soma das parcelas R$ 301.274,95 (sinal R$ 100,00 + comissão R$ 18.076,49 + 36x R$ 1.168,85 + financiamento R$ 241.019,86; diferença R$ 0,13)
+  - id 1-01-103 duplicado entre PDFs (flow.pdf e urban.pdf): área 35.33/49.01 m² e valor R$ 249.000,00/R$ 439.585,00 divergem
+  - id 1-01-107 duplicado entre PDFs (flow.pdf e urban.pdf): área 39.4/49.01 m² e valor R$ 267.000,00/R$ 439.585,00 divergem
+  - id 1-01-109 duplicado entre PDFs (flow.pdf e urban.pdf): área 35.33/50.25 m² e valor R$ 249.000,00/R$ 450.326,61 divergem
+  - id 1-01-201 duplicado entre PDFs (flow.pdf e urban.pdf): área 39.4/50.55 m² e valor R$ 267.000,00/R$ 470.798,62 divergem
+  - id 1-01-206 duplicado entre PDFs (flow.pdf e urban.pdf): área 35.33/50.55 m² e valor R$ 249.000,00/R$ 470.798,62 divergem
+  - id 1-01-208 duplicado entre PDFs (flow.pdf e urban.pdf): área 39.4/49.01 m² e valor R$ 267.000,00/R$ 456.913,72 divergem

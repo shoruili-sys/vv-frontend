@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.linux": {
+    "PATH": "/run/user/1000/fnm_multishells/289158_1785959067837/bin:${env:PATH}"
+  },
+  "eslint.packageManager": "npm"
+}
