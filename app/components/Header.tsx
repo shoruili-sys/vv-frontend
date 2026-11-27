@@ -13,6 +13,9 @@ export const Header: React.FC = () => {
           <Link href="/institucional">Institucional</Link>
           <Link href="/sobre">Sobre</Link>
           <a href="#contato">Contato</a>
+          <Link href="/empreendimentos/taj-ibirapuera" className={styles.ctaButton}>
+            Agendar visita
+          </Link>
         </nav>
       </div>
     </header>

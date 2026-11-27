@@ -45,7 +45,8 @@ export function LeadForm({ landingPageId, ctaText }: Props) {
       setStatus('success');
       setMessage('Recebemos seu contato! Em até 5 minutos te chamamos no WhatsApp.');
       form.reset();
-    } catch (err) {
+    } catch (error) {
+      console.error('Lead form error:', error);
       setStatus('error');
       setMessage('Algo deu errado. Tente novamente ou nos chame no WhatsApp.');
     }

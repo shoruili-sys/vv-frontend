@@ -22,7 +22,9 @@
 }
 .nav {
   display: flex;
-  gap: 24px;
+  gap: 20px;
+  align-items: center;
+  flex-wrap: wrap;
 }
 .nav a {
   color: var(--fg-soft);
@@ -31,5 +33,20 @@
 .nav a:hover {
   color: var(--fg);
   opacity: 1;
+}
+.ctaButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 18px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--bg);
+  font-weight: 600;
+  transition: background 0.2s, transform 0.2s;
+}
+.ctaButton:hover {
+  background: var(--accent-soft);
+  transform: translateY(-1px);
 }
 .footer { display: none; }

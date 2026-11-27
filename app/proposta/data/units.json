@@ -1,0 +1,5034 @@
+{
+  "developments": [
+    {
+      "id": "vitta-ferraz",
+      "name": "Vitta Ferraz",
+      "city": "",
+      "state": "",
+      "deliveryDate": "",
+      "units": [
+        {
+          "id": "01-01-102",
+          "block": "01",
+          "unit": "102",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-103",
+          "block": "01",
+          "unit": "103",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "01-01-108",
+          "block": "01",
+          "unit": "108",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "01-01-109",
+          "block": "01",
+          "unit": "109",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-110",
+          "block": "01",
+          "unit": "110",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-111",
+          "block": "01",
+          "unit": "111",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-112",
+          "block": "01",
+          "unit": "112",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-115",
+          "block": "01",
+          "unit": "115",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-116",
+          "block": "01",
+          "unit": "116",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-118",
+          "block": "01",
+          "unit": "118",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "01-01-119",
+          "block": "01",
+          "unit": "119",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-120",
+          "block": "01",
+          "unit": "120",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-122",
+          "block": "01",
+          "unit": "122",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-123",
+          "block": "01",
+          "unit": "123",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "01-01-128",
+          "block": "01",
+          "unit": "128",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "01-01-129",
+          "block": "01",
+          "unit": "129",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-131",
+          "block": "01",
+          "unit": "131",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-132",
+          "block": "01",
+          "unit": "132",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "01-01-133",
+          "block": "01",
+          "unit": "133",
+          "area": 39.03,
+          "totalPrice": 266988.21
+        },
+        {
+          "id": "01-01-134",
+          "block": "01",
+          "unit": "134",
+          "area": 38.68,
+          "totalPrice": 265105.87
+        },
+        {
+          "id": "01-01-138",
+          "block": "01",
+          "unit": "138",
+          "area": 39.03,
+          "totalPrice": 266988.21
+        },
+        {
+          "id": "01-01-140",
+          "block": "01",
+          "unit": "140",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "02-01-102",
+          "block": "02",
+          "unit": "102",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "02-01-105",
+          "block": "02",
+          "unit": "105",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "02-01-108",
+          "block": "02",
+          "unit": "108",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "02-01-109",
+          "block": "02",
+          "unit": "109",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "02-01-110",
+          "block": "02",
+          "unit": "110",
+          "area": 37.52,
+          "totalPrice": 255298.47
+        },
+        {
+          "id": "02-01-112",
+          "block": "02",
+          "unit": "112",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "02-01-113",
+          "block": "02",
+          "unit": "113",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "02-01-115",
+          "block": "02",
+          "unit": "115",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "02-01-118",
+          "block": "02",
+          "unit": "118",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "02-01-119",
+          "block": "02",
+          "unit": "119",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "02-01-122",
+          "block": "02",
+          "unit": "122",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "02-01-123",
+          "block": "02",
+          "unit": "123",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "02-01-132",
+          "block": "02",
+          "unit": "132",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "03-01-103",
+          "block": "03",
+          "unit": "103",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "03-01-108",
+          "block": "03",
+          "unit": "108",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "03-01-109",
+          "block": "03",
+          "unit": "109",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "03-01-112",
+          "block": "03",
+          "unit": "112",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "03-01-113",
+          "block": "03",
+          "unit": "113",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "03-01-115",
+          "block": "03",
+          "unit": "115",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "03-01-118",
+          "block": "03",
+          "unit": "118",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "03-01-119",
+          "block": "03",
+          "unit": "119",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "03-01-121",
+          "block": "03",
+          "unit": "121",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "03-01-122",
+          "block": "03",
+          "unit": "122",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "03-01-128",
+          "block": "03",
+          "unit": "128",
+          "area": 37.5,
+          "totalPrice": 258759.71
+        },
+        {
+          "id": "03-01-133",
+          "block": "03",
+          "unit": "133",
+          "area": 39.03,
+          "totalPrice": 266988.21
+        },
+        {
+          "id": "03-01-134",
+          "block": "03",
+          "unit": "134",
+          "area": 38.68,
+          "totalPrice": 265105.87
+        },
+        {
+          "id": "03-01-137",
+          "block": "03",
+          "unit": "137",
+          "area": 38.68,
+          "totalPrice": 265105.87
+        },
+        {
+          "id": "03-01-138",
+          "block": "03",
+          "unit": "138",
+          "area": 39.03,
+          "totalPrice": 266988.21
+        },
+        {
+          "id": "03-01-139",
+          "block": "03",
+          "unit": "139",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        },
+        {
+          "id": "03-01-140",
+          "block": "03",
+          "unit": "140",
+          "area": 37.52,
+          "totalPrice": 258867.27
+        }
+      ],
+      "financingForecast": "2027-01-26"
+    },
+    {
+      "id": "arte-campo-limpo",
+      "name": "Arte Campo Limpo",
+      "city": "",
+      "state": "",
+      "deliveryDate": "",
+      "units": [
+        {
+          "id": "A-ÚNICA-2",
+          "block": "A",
+          "unit": "2",
+          "area": 44.2,
+          "totalPrice": 345741.99
+        },
+        {
+          "id": "A-ÚNICA-3",
+          "block": "A",
+          "unit": "3",
+          "area": 44.2,
+          "totalPrice": 345741.99
+        },
+        {
+          "id": "A-ÚNICA-6",
+          "block": "A",
+          "unit": "6",
+          "area": 44.2,
+          "totalPrice": 345741.99
+        },
+        {
+          "id": "A-ÚNICA-12",
+          "block": "A",
+          "unit": "12",
+          "area": 44.03,
+          "totalPrice": 350411.04
+        },
+        {
+          "id": "A-ÚNICA-13",
+          "block": "A",
+          "unit": "13",
+          "area": 44.03,
+          "totalPrice": 350411.04
+        },
+        {
+          "id": "A-ÚNICA-16",
+          "block": "A",
+          "unit": "16",
+          "area": 44.03,
+          "totalPrice": 350411.04
+        },
+        {
+          "id": "A-ÚNICA-19",
+          "block": "A",
+          "unit": "19",
+          "area": 31.96,
+          "totalPrice": 224633.0
+        },
+        {
+          "id": "A-ÚNICA-25",
+          "block": "A",
+          "unit": "25",
+          "area": 39.7,
+          "totalPrice": 290868.01
+        },
+        {
+          "id": "A-ÚNICA-39",
+          "block": "A",
+          "unit": "39",
+          "area": 31.96,
+          "totalPrice": 224633.0
+        },
+        {
+          "id": "A-ÚNICA-64",
+          "block": "A",
+          "unit": "64",
+          "area": 39.7,
+          "totalPrice": 326104.0
+        },
+        {
+          "id": "A-ÚNICA-74",
+          "block": "A",
+          "unit": "74",
+          "area": 39.7,
+          "totalPrice": 326103.5
+        },
+        {
+          "id": "A-ÚNICA-75",
+          "block": "A",
+          "unit": "75",
+          "area": 39.7,
+          "totalPrice": 326103.5
+        },
+        {
+          "id": "A-ÚNICA-85",
+          "block": "A",
+          "unit": "85",
+          "area": 39.7,
+          "totalPrice": 326104.0
+        },
+        {
+          "id": "A-ÚNICA-89",
+          "block": "A",
+          "unit": "89",
+          "area": 31.96,
+          "totalPrice": 244633.0
+        },
+        {
+          "id": "A-ÚNICA-95",
+          "block": "A",
+          "unit": "95",
+          "area": 39.7,
+          "totalPrice": 326103.5
+        },
+        {
+          "id": "A-ÚNICA-103",
+          "block": "A",
+          "unit": "103",
+          "area": 44.03,
+          "totalPrice": 356218.0
+        },
+        {
+          "id": "A-ÚNICA-104",
+          "block": "A",
+          "unit": "104",
+          "area": 39.7,
+          "totalPrice": 326103.5
+        },
+        {
+          "id": "A-ÚNICA-105",
+          "block": "A",
+          "unit": "105",
+          "area": 39.7,
+          "totalPrice": 326103.5
+        },
+        {
+          "id": "A-ÚNICA-109",
+          "block": "A",
+          "unit": "109",
+          "area": 31.96,
+          "totalPrice": 224633.0
+        },
+        {
+          "id": "A-ÚNICA-114",
+          "block": "A",
+          "unit": "114",
+          "area": 39.7,
+          "totalPrice": 331339.0
+        },
+        {
+          "id": "A-ÚNICA-115",
+          "block": "A",
+          "unit": "115",
+          "area": 39.7,
+          "totalPrice": 331339.0
+        },
+        {
+          "id": "A-ÚNICA-119",
+          "block": "A",
+          "unit": "119",
+          "area": 31.96,
+          "totalPrice": 244633.0
+        },
+        {
+          "id": "A-ÚNICA-122",
+          "block": "A",
+          "unit": "122",
+          "area": 44.03,
+          "totalPrice": 362024.09
+        },
+        {
+          "id": "A-ÚNICA-123",
+          "block": "A",
+          "unit": "123",
+          "area": 44.03,
+          "totalPrice": 362024.09
+        },
+        {
+          "id": "A-ÚNICA-124",
+          "block": "A",
+          "unit": "124",
+          "area": 39.7,
+          "totalPrice": 331339.0
+        },
+        {
+          "id": "A-ÚNICA-125",
+          "block": "A",
+          "unit": "125",
+          "area": 39.7,
+          "totalPrice": 331339.0
+        },
+        {
+          "id": "A-ÚNICA-126",
+          "block": "A",
+          "unit": "126",
+          "area": 44.03,
+          "totalPrice": 362024.09
+        },
+        {
+          "id": "A-ÚNICA-132",
+          "block": "A",
+          "unit": "132",
+          "area": 44.03,
+          "totalPrice": 362024.09
+        },
+        {
+          "id": "A-ÚNICA-133",
+          "block": "A",
+          "unit": "133",
+          "area": 44.03,
+          "totalPrice": 362024.09
+        },
+        {
+          "id": "A-ÚNICA-134",
+          "block": "A",
+          "unit": "134",
+          "area": 39.7,
+          "totalPrice": 331339.0
+        },
+        {
+          "id": "A-ÚNICA-135",
+          "block": "A",
+          "unit": "135",
+          "area": 39.7,
+          "totalPrice": 331339.0
+        },
+        {
+          "id": "A-ÚNICA-142",
+          "block": "A",
+          "unit": "142",
+          "area": 44.03,
+          "totalPrice": 362024.09
+        },
+        {
+          "id": "A-ÚNICA-143",
+          "block": "A",
+          "unit": "143",
+          "area": 44.03,
+          "totalPrice": 362024.09
+        },
+        {
+          "id": "A-ÚNICA-144",
+          "block": "A",
+          "unit": "144",
+          "area": 39.7,
+          "totalPrice": 331339.0
+        },
+        {
+          "id": "A-ÚNICA-145",
+          "block": "A",
+          "unit": "145",
+          "area": 39.7,
+          "totalPrice": 331339.0
+        },
+        {
+          "id": "A-ÚNICA-149",
+          "block": "A",
+          "unit": "149",
+          "area": 31.96,
+          "totalPrice": 224633.0
+        },
+        {
+          "id": "A-ÚNICA-152",
+          "block": "A",
+          "unit": "152",
+          "area": 44.03,
+          "totalPrice": 362024.09
+        },
+        {
+          "id": "A-ÚNICA-153",
+          "block": "A",
+          "unit": "153",
+          "area": 44.03,
+          "totalPrice": 362024.09
+        },
+        {
+          "id": "A-ÚNICA-154",
+          "block": "A",
+          "unit": "154",
+          "area": 39.7,
+          "totalPrice": 331339.0
+        },
+        {
+          "id": "A-ÚNICA-155",
+          "block": "A",
+          "unit": "155",
+          "area": 39.7,
+          "totalPrice": 331339.0
+        },
+        {
+          "id": "A-ÚNICA-159",
+          "block": "A",
+          "unit": "159",
+          "area": 31.96,
+          "totalPrice": 224633.0
+        },
+        {
+          "id": "A-ÚNICA-161",
+          "block": "A",
+          "unit": "161",
+          "area": 39.42,
+          "totalPrice": 301274.82
+        },
+        {
+          "id": "A-ÚNICA-162",
+          "block": "A",
+          "unit": "162",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "A-ÚNICA-163",
+          "block": "A",
+          "unit": "163",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "A-ÚNICA-164",
+          "block": "A",
+          "unit": "164",
+          "area": 39.7,
+          "totalPrice": 336574.5
+        },
+        {
+          "id": "A-ÚNICA-165",
+          "block": "A",
+          "unit": "165",
+          "area": 39.7,
+          "totalPrice": 336574.5
+        },
+        {
+          "id": "A-ÚNICA-166",
+          "block": "A",
+          "unit": "166",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "A-ÚNICA-171",
+          "block": "A",
+          "unit": "171",
+          "area": 39.42,
+          "totalPrice": 301274.82
+        },
+        {
+          "id": "A-ÚNICA-172",
+          "block": "A",
+          "unit": "172",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "A-ÚNICA-173",
+          "block": "A",
+          "unit": "173",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "A-ÚNICA-174",
+          "block": "A",
+          "unit": "174",
+          "area": 39.7,
+          "totalPrice": 336574.5
+        },
+        {
+          "id": "A-ÚNICA-175",
+          "block": "A",
+          "unit": "175",
+          "area": 39.7,
+          "totalPrice": 336574.5
+        },
+        {
+          "id": "A-ÚNICA-176",
+          "block": "A",
+          "unit": "176",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "A-ÚNICA-178",
+          "block": "A",
+          "unit": "178",
+          "area": 39.7,
+          "totalPrice": 318166.16
+        },
+        {
+          "id": "A-ÚNICA-181",
+          "block": "A",
+          "unit": "181",
+          "area": 39.42,
+          "totalPrice": 301274.82
+        },
+        {
+          "id": "A-ÚNICA-182",
+          "block": "A",
+          "unit": "182",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "A-ÚNICA-184",
+          "block": "A",
+          "unit": "184",
+          "area": 39.7,
+          "totalPrice": 336574.5
+        },
+        {
+          "id": "A-ÚNICA-185",
+          "block": "A",
+          "unit": "185",
+          "area": 39.7,
+          "totalPrice": 336574.5
+        },
+        {
+          "id": "A-ÚNICA-186",
+          "block": "A",
+          "unit": "186",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "A-ÚNICA-188",
+          "block": "A",
+          "unit": "188",
+          "area": 39.7,
+          "totalPrice": 318166.16
+        },
+        {
+          "id": "A-ÚNICA-191",
+          "block": "A",
+          "unit": "191",
+          "area": 39.42,
+          "totalPrice": 301274.82
+        },
+        {
+          "id": "A-ÚNICA-192",
+          "block": "A",
+          "unit": "192",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "A-ÚNICA-193",
+          "block": "A",
+          "unit": "193",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "A-ÚNICA-194",
+          "block": "A",
+          "unit": "194",
+          "area": 39.7,
+          "totalPrice": 336574.5
+        },
+        {
+          "id": "A-ÚNICA-195",
+          "block": "A",
+          "unit": "195",
+          "area": 39.7,
+          "totalPrice": 336574.5
+        },
+        {
+          "id": "A-ÚNICA-196",
+          "block": "A",
+          "unit": "196",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "A-ÚNICA-198",
+          "block": "A",
+          "unit": "198",
+          "area": 39.7,
+          "totalPrice": 318166.16
+        },
+        {
+          "id": "A-ÚNICA-199",
+          "block": "A",
+          "unit": "199",
+          "area": 31.96,
+          "totalPrice": 244633.0
+        },
+        {
+          "id": "A-ÚNICA-201",
+          "block": "A",
+          "unit": "201",
+          "area": 39.42,
+          "totalPrice": 301274.82
+        },
+        {
+          "id": "A-ÚNICA-203",
+          "block": "A",
+          "unit": "203",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "A-ÚNICA-204",
+          "block": "A",
+          "unit": "204",
+          "area": 39.7,
+          "totalPrice": 336574.5
+        },
+        {
+          "id": "A-ÚNICA-205",
+          "block": "A",
+          "unit": "205",
+          "area": 39.7,
+          "totalPrice": 336574.5
+        },
+        {
+          "id": "B-ÚNICA-29",
+          "block": "B",
+          "unit": "29",
+          "area": 31.96,
+          "totalPrice": 244633.0
+        },
+        {
+          "id": "B-ÚNICA-32",
+          "block": "B",
+          "unit": "32",
+          "area": 44.03,
+          "totalPrice": 350411.04
+        },
+        {
+          "id": "B-ÚNICA-39",
+          "block": "B",
+          "unit": "39",
+          "area": 31.96,
+          "totalPrice": 244633.0
+        },
+        {
+          "id": "B-ÚNICA-49",
+          "block": "B",
+          "unit": "49",
+          "area": 31.96,
+          "totalPrice": 244633.0
+        },
+        {
+          "id": "B-ÚNICA-59",
+          "block": "B",
+          "unit": "59",
+          "area": 31.96,
+          "totalPrice": 224633.0
+        },
+        {
+          "id": "B-ÚNICA-119",
+          "block": "B",
+          "unit": "119",
+          "area": 31.96,
+          "totalPrice": 224633.0
+        },
+        {
+          "id": "B-ÚNICA-122",
+          "block": "B",
+          "unit": "122",
+          "area": 44.03,
+          "totalPrice": 362024.09
+        },
+        {
+          "id": "B-ÚNICA-125",
+          "block": "B",
+          "unit": "125",
+          "area": 39.7,
+          "totalPrice": 321783.03
+        },
+        {
+          "id": "B-ÚNICA-129",
+          "block": "B",
+          "unit": "129",
+          "area": 31.96,
+          "totalPrice": 244633.0
+        },
+        {
+          "id": "B-ÚNICA-132",
+          "block": "B",
+          "unit": "132",
+          "area": 44.03,
+          "totalPrice": 362024.09
+        },
+        {
+          "id": "B-ÚNICA-134",
+          "block": "B",
+          "unit": "134",
+          "area": 39.7,
+          "totalPrice": 321783.03
+        },
+        {
+          "id": "B-ÚNICA-135",
+          "block": "B",
+          "unit": "135",
+          "area": 39.7,
+          "totalPrice": 321783.03
+        },
+        {
+          "id": "B-ÚNICA-142",
+          "block": "B",
+          "unit": "142",
+          "area": 44.03,
+          "totalPrice": 362024.0
+        },
+        {
+          "id": "B-ÚNICA-161",
+          "block": "B",
+          "unit": "161",
+          "area": 39.42,
+          "totalPrice": 301274.82
+        },
+        {
+          "id": "B-ÚNICA-162",
+          "block": "B",
+          "unit": "162",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "B-ÚNICA-164",
+          "block": "B",
+          "unit": "164",
+          "area": 39.7,
+          "totalPrice": 326840.7
+        },
+        {
+          "id": "B-ÚNICA-165",
+          "block": "B",
+          "unit": "165",
+          "area": 39.7,
+          "totalPrice": 326840.7
+        },
+        {
+          "id": "B-ÚNICA-168",
+          "block": "B",
+          "unit": "168",
+          "area": 39.7,
+          "totalPrice": 318538.34
+        },
+        {
+          "id": "B-ÚNICA-169",
+          "block": "B",
+          "unit": "169",
+          "area": 31.96,
+          "totalPrice": 244633.0
+        },
+        {
+          "id": "B-ÚNICA-171",
+          "block": "B",
+          "unit": "171",
+          "area": 39.42,
+          "totalPrice": 301274.82
+        },
+        {
+          "id": "B-ÚNICA-172",
+          "block": "B",
+          "unit": "172",
+          "area": 44.03,
+          "totalPrice": 367830.61
+        },
+        {
+          "id": "B-ÚNICA-174",
+          "block": "B",
+          "unit": "174",
+          "area": 39.7,
+          "totalPrice": 326840.7
+        },
+        {
+          "id": "B-ÚNICA-175",
+          "block": "B",
+          "unit": "175",
+          "area": 39.7,
+          "totalPrice": 326840.7
+        },
+        {
+          "id": "B-ÚNICA-178",
+          "block": "B",
+          "unit": "178",
+          "area": 39.7,
+          "totalPrice": 318538.34
+        },
+        {
+          "id": "B-ÚNICA-181",
+          "block": "B",
+          "unit": "181",
+          "area": 39.42,
+          "totalPrice": 301274.82
+        },
+        {
+          "id": "B-ÚNICA-184",
+          "block": "B",
+          "unit": "184",
+          "area": 39.7,
+          "totalPrice": 326840.7
+        },
+        {
+          "id": "B-ÚNICA-185",
+          "block": "B",
+          "unit": "185",
+          "area": 39.7,
+          "totalPrice": 326840.7
+        },
+        {
+          "id": "B-ÚNICA-188",
+          "block": "B",
+          "unit": "188",
+          "area": 39.7,
+          "totalPrice": 318538.34
+        },
+        {
+          "id": "B-ÚNICA-194",
+          "block": "B",
+          "unit": "194",
+          "area": 39.7,
+          "totalPrice": 326840.7
+        },
+        {
+          "id": "B-ÚNICA-195",
+          "block": "B",
+          "unit": "195",
+          "area": 39.7,
+          "totalPrice": 326840.7
+        },
+        {
+          "id": "B-ÚNICA-198",
+          "block": "B",
+          "unit": "198",
+          "area": 39.7,
+          "totalPrice": 318538.34
+        },
+        {
+          "id": "B-ÚNICA-201",
+          "block": "B",
+          "unit": "201",
+          "area": 39.42,
+          "totalPrice": 301275.0
+        },
+        {
+          "id": "B-ÚNICA-205",
+          "block": "B",
+          "unit": "205",
+          "area": 39.7,
+          "totalPrice": 326840.7
+        },
+        {
+          "id": "B-ÚNICA-208",
+          "block": "B",
+          "unit": "208",
+          "area": 39.7,
+          "totalPrice": 318538.34
+        }
+      ],
+      "financingForecast": "2027-01-26"
+    },
+    {
+      "id": "flow",
+      "name": "Flow",
+      "city": "",
+      "state": "",
+      "deliveryDate": "",
+      "units": [
+        {
+          "id": "1-01-01",
+          "block": "1",
+          "unit": "01",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-02",
+          "block": "1",
+          "unit": "02",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-03",
+          "block": "1",
+          "unit": "03",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-05",
+          "block": "1",
+          "unit": "05",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-06",
+          "block": "1",
+          "unit": "06",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-07",
+          "block": "1",
+          "unit": "07",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-08",
+          "block": "1",
+          "unit": "08",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-09",
+          "block": "1",
+          "unit": "09",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-010",
+          "block": "1",
+          "unit": "010",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-011",
+          "block": "1",
+          "unit": "011",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-012",
+          "block": "1",
+          "unit": "012",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-013",
+          "block": "1",
+          "unit": "013",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-101",
+          "block": "1",
+          "unit": "101",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-102",
+          "block": "1",
+          "unit": "102",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-103",
+          "block": "1",
+          "unit": "103",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-105",
+          "block": "1",
+          "unit": "105",
+          "area": 35.48,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-106",
+          "block": "1",
+          "unit": "106",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-107",
+          "block": "1",
+          "unit": "107",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-108",
+          "block": "1",
+          "unit": "108",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-109",
+          "block": "1",
+          "unit": "109",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-201",
+          "block": "1",
+          "unit": "201",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-202",
+          "block": "1",
+          "unit": "202",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-203",
+          "block": "1",
+          "unit": "203",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-205",
+          "block": "1",
+          "unit": "205",
+          "area": 35.48,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-206",
+          "block": "1",
+          "unit": "206",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-208",
+          "block": "1",
+          "unit": "208",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-209",
+          "block": "1",
+          "unit": "209",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-301",
+          "block": "1",
+          "unit": "301",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-302",
+          "block": "1",
+          "unit": "302",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-303",
+          "block": "1",
+          "unit": "303",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-306",
+          "block": "1",
+          "unit": "306",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-308",
+          "block": "1",
+          "unit": "308",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-309",
+          "block": "1",
+          "unit": "309",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-403",
+          "block": "1",
+          "unit": "403",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-408",
+          "block": "1",
+          "unit": "408",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-409",
+          "block": "1",
+          "unit": "409",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-509",
+          "block": "1",
+          "unit": "509",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-601",
+          "block": "1",
+          "unit": "601",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-602",
+          "block": "1",
+          "unit": "602",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-603",
+          "block": "1",
+          "unit": "603",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-605",
+          "block": "1",
+          "unit": "605",
+          "area": 35.48,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-606",
+          "block": "1",
+          "unit": "606",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-607",
+          "block": "1",
+          "unit": "607",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-608",
+          "block": "1",
+          "unit": "608",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-609",
+          "block": "1",
+          "unit": "609",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-701",
+          "block": "1",
+          "unit": "701",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-702",
+          "block": "1",
+          "unit": "702",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-703",
+          "block": "1",
+          "unit": "703",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-705",
+          "block": "1",
+          "unit": "705",
+          "area": 35.48,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-706",
+          "block": "1",
+          "unit": "706",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-707",
+          "block": "1",
+          "unit": "707",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-708",
+          "block": "1",
+          "unit": "708",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-709",
+          "block": "1",
+          "unit": "709",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-801",
+          "block": "1",
+          "unit": "801",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-802",
+          "block": "1",
+          "unit": "802",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-803",
+          "block": "1",
+          "unit": "803",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-805",
+          "block": "1",
+          "unit": "805",
+          "area": 35.48,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-806",
+          "block": "1",
+          "unit": "806",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-807",
+          "block": "1",
+          "unit": "807",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-808",
+          "block": "1",
+          "unit": "808",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-809",
+          "block": "1",
+          "unit": "809",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-901",
+          "block": "1",
+          "unit": "901",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-902",
+          "block": "1",
+          "unit": "902",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-903",
+          "block": "1",
+          "unit": "903",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-905",
+          "block": "1",
+          "unit": "905",
+          "area": 35.48,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-906",
+          "block": "1",
+          "unit": "906",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-907",
+          "block": "1",
+          "unit": "907",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-908",
+          "block": "1",
+          "unit": "908",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-909",
+          "block": "1",
+          "unit": "909",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-1001",
+          "block": "1",
+          "unit": "1001",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-1002",
+          "block": "1",
+          "unit": "1002",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-1003",
+          "block": "1",
+          "unit": "1003",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-1005",
+          "block": "1",
+          "unit": "1005",
+          "area": 35.48,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-1006",
+          "block": "1",
+          "unit": "1006",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-1008",
+          "block": "1",
+          "unit": "1008",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-1009",
+          "block": "1",
+          "unit": "1009",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-1010",
+          "block": "1",
+          "unit": "1010",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-1011",
+          "block": "1",
+          "unit": "1011",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-1012",
+          "block": "1",
+          "unit": "1012",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-1013",
+          "block": "1",
+          "unit": "1013",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-1102",
+          "block": "1",
+          "unit": "1102",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-1103",
+          "block": "1",
+          "unit": "1103",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-1105",
+          "block": "1",
+          "unit": "1105",
+          "area": 35.48,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-1106",
+          "block": "1",
+          "unit": "1106",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-1107",
+          "block": "1",
+          "unit": "1107",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-1108",
+          "block": "1",
+          "unit": "1108",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-1109",
+          "block": "1",
+          "unit": "1109",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-1201",
+          "block": "1",
+          "unit": "1201",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1202",
+          "block": "1",
+          "unit": "1202",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1203",
+          "block": "1",
+          "unit": "1203",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1205",
+          "block": "1",
+          "unit": "1205",
+          "area": 35.48,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1206",
+          "block": "1",
+          "unit": "1206",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1207",
+          "block": "1",
+          "unit": "1207",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1208",
+          "block": "1",
+          "unit": "1208",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1209",
+          "block": "1",
+          "unit": "1209",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1301",
+          "block": "1",
+          "unit": "1301",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1302",
+          "block": "1",
+          "unit": "1302",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1303",
+          "block": "1",
+          "unit": "1303",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1305",
+          "block": "1",
+          "unit": "1305",
+          "area": 35.48,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1306",
+          "block": "1",
+          "unit": "1306",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1307",
+          "block": "1",
+          "unit": "1307",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1308",
+          "block": "1",
+          "unit": "1308",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1309",
+          "block": "1",
+          "unit": "1309",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1401",
+          "block": "1",
+          "unit": "1401",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1402",
+          "block": "1",
+          "unit": "1402",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1403",
+          "block": "1",
+          "unit": "1403",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1405",
+          "block": "1",
+          "unit": "1405",
+          "area": 35.48,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1406",
+          "block": "1",
+          "unit": "1406",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1407",
+          "block": "1",
+          "unit": "1407",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1408",
+          "block": "1",
+          "unit": "1408",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1409",
+          "block": "1",
+          "unit": "1409",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1501",
+          "block": "1",
+          "unit": "1501",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1502",
+          "block": "1",
+          "unit": "1502",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1503",
+          "block": "1",
+          "unit": "1503",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1504",
+          "block": "1",
+          "unit": "1504",
+          "area": 25.21,
+          "totalPrice": 197000.0
+        },
+        {
+          "id": "1-01-1505",
+          "block": "1",
+          "unit": "1505",
+          "area": 35.48,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1506",
+          "block": "1",
+          "unit": "1506",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1507",
+          "block": "1",
+          "unit": "1507",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1508",
+          "block": "1",
+          "unit": "1508",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1509",
+          "block": "1",
+          "unit": "1509",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1601",
+          "block": "1",
+          "unit": "1601",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1602",
+          "block": "1",
+          "unit": "1602",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1603",
+          "block": "1",
+          "unit": "1603",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1605",
+          "block": "1",
+          "unit": "1605",
+          "area": 35.48,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1606",
+          "block": "1",
+          "unit": "1606",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1607",
+          "block": "1",
+          "unit": "1607",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1608",
+          "block": "1",
+          "unit": "1608",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1609",
+          "block": "1",
+          "unit": "1609",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1701",
+          "block": "1",
+          "unit": "1701",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1702",
+          "block": "1",
+          "unit": "1702",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1703",
+          "block": "1",
+          "unit": "1703",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1705",
+          "block": "1",
+          "unit": "1705",
+          "area": 35.48,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1706",
+          "block": "1",
+          "unit": "1706",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-1707",
+          "block": "1",
+          "unit": "1707",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1708",
+          "block": "1",
+          "unit": "1708",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-1709",
+          "block": "1",
+          "unit": "1709",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-2010",
+          "block": "1",
+          "unit": "2010",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-2011",
+          "block": "1",
+          "unit": "2011",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-2012",
+          "block": "1",
+          "unit": "2012",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-2013",
+          "block": "1",
+          "unit": "2013",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-3010",
+          "block": "1",
+          "unit": "3010",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-3011",
+          "block": "1",
+          "unit": "3011",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-3012",
+          "block": "1",
+          "unit": "3012",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-3013",
+          "block": "1",
+          "unit": "3013",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-4010",
+          "block": "1",
+          "unit": "4010",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-4011",
+          "block": "1",
+          "unit": "4011",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-4012",
+          "block": "1",
+          "unit": "4012",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-4013",
+          "block": "1",
+          "unit": "4013",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-5010",
+          "block": "1",
+          "unit": "5010",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-5011",
+          "block": "1",
+          "unit": "5011",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-5012",
+          "block": "1",
+          "unit": "5012",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "1-01-5013",
+          "block": "1",
+          "unit": "5013",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "1-01-6010",
+          "block": "1",
+          "unit": "6010",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-6011",
+          "block": "1",
+          "unit": "6011",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-6012",
+          "block": "1",
+          "unit": "6012",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-6013",
+          "block": "1",
+          "unit": "6013",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-7010",
+          "block": "1",
+          "unit": "7010",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-7011",
+          "block": "1",
+          "unit": "7011",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-7012",
+          "block": "1",
+          "unit": "7012",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-7013",
+          "block": "1",
+          "unit": "7013",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-8010",
+          "block": "1",
+          "unit": "8010",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-8011",
+          "block": "1",
+          "unit": "8011",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-8012",
+          "block": "1",
+          "unit": "8012",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-8013",
+          "block": "1",
+          "unit": "8013",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-9010",
+          "block": "1",
+          "unit": "9010",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-9011",
+          "block": "1",
+          "unit": "9011",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-9012",
+          "block": "1",
+          "unit": "9012",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-9013",
+          "block": "1",
+          "unit": "9013",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-10010",
+          "block": "1",
+          "unit": "10010",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-10011",
+          "block": "1",
+          "unit": "10011",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-10012",
+          "block": "1",
+          "unit": "10012",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-10013",
+          "block": "1",
+          "unit": "10013",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-11010",
+          "block": "1",
+          "unit": "11010",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-11011",
+          "block": "1",
+          "unit": "11011",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-11012",
+          "block": "1",
+          "unit": "11012",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "1-01-11013",
+          "block": "1",
+          "unit": "11013",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "1-01-12010",
+          "block": "1",
+          "unit": "12010",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-12011",
+          "block": "1",
+          "unit": "12011",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-12012",
+          "block": "1",
+          "unit": "12012",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-12013",
+          "block": "1",
+          "unit": "12013",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-13010",
+          "block": "1",
+          "unit": "13010",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-13011",
+          "block": "1",
+          "unit": "13011",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-13012",
+          "block": "1",
+          "unit": "13012",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-13013",
+          "block": "1",
+          "unit": "13013",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-14010",
+          "block": "1",
+          "unit": "14010",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-14011",
+          "block": "1",
+          "unit": "14011",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-14012",
+          "block": "1",
+          "unit": "14012",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-14013",
+          "block": "1",
+          "unit": "14013",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-15010",
+          "block": "1",
+          "unit": "15010",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-15011",
+          "block": "1",
+          "unit": "15011",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-15012",
+          "block": "1",
+          "unit": "15012",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-15013",
+          "block": "1",
+          "unit": "15013",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-16010",
+          "block": "1",
+          "unit": "16010",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-16011",
+          "block": "1",
+          "unit": "16011",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-16012",
+          "block": "1",
+          "unit": "16012",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-16013",
+          "block": "1",
+          "unit": "16013",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "1-01-17010",
+          "block": "1",
+          "unit": "17010",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-17011",
+          "block": "1",
+          "unit": "17011",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-17012",
+          "block": "1",
+          "unit": "17012",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "1-01-17013",
+          "block": "1",
+          "unit": "17013",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-101",
+          "block": "2",
+          "unit": "101",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "2-01-102",
+          "block": "2",
+          "unit": "102",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-103",
+          "block": "2",
+          "unit": "103",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-105",
+          "block": "2",
+          "unit": "105",
+          "area": 35.48,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-106",
+          "block": "2",
+          "unit": "106",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-107",
+          "block": "2",
+          "unit": "107",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "2-01-108",
+          "block": "2",
+          "unit": "108",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "2-01-109",
+          "block": "2",
+          "unit": "109",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-201",
+          "block": "2",
+          "unit": "201",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "2-01-202",
+          "block": "2",
+          "unit": "202",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-203",
+          "block": "2",
+          "unit": "203",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-205",
+          "block": "2",
+          "unit": "205",
+          "area": 35.48,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-206",
+          "block": "2",
+          "unit": "206",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-207",
+          "block": "2",
+          "unit": "207",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "2-01-209",
+          "block": "2",
+          "unit": "209",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-301",
+          "block": "2",
+          "unit": "301",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "2-01-303",
+          "block": "2",
+          "unit": "303",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-305",
+          "block": "2",
+          "unit": "305",
+          "area": 35.48,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-306",
+          "block": "2",
+          "unit": "306",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-403",
+          "block": "2",
+          "unit": "403",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-503",
+          "block": "2",
+          "unit": "503",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-601",
+          "block": "2",
+          "unit": "601",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-602",
+          "block": "2",
+          "unit": "602",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-603",
+          "block": "2",
+          "unit": "603",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-605",
+          "block": "2",
+          "unit": "605",
+          "area": 35.48,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-606",
+          "block": "2",
+          "unit": "606",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-608",
+          "block": "2",
+          "unit": "608",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-609",
+          "block": "2",
+          "unit": "609",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-701",
+          "block": "2",
+          "unit": "701",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-702",
+          "block": "2",
+          "unit": "702",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-703",
+          "block": "2",
+          "unit": "703",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-705",
+          "block": "2",
+          "unit": "705",
+          "area": 35.48,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-706",
+          "block": "2",
+          "unit": "706",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-707",
+          "block": "2",
+          "unit": "707",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-708",
+          "block": "2",
+          "unit": "708",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-709",
+          "block": "2",
+          "unit": "709",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-801",
+          "block": "2",
+          "unit": "801",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-802",
+          "block": "2",
+          "unit": "802",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-803",
+          "block": "2",
+          "unit": "803",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-805",
+          "block": "2",
+          "unit": "805",
+          "area": 35.48,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-806",
+          "block": "2",
+          "unit": "806",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-807",
+          "block": "2",
+          "unit": "807",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-808",
+          "block": "2",
+          "unit": "808",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-809",
+          "block": "2",
+          "unit": "809",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-901",
+          "block": "2",
+          "unit": "901",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-902",
+          "block": "2",
+          "unit": "902",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-905",
+          "block": "2",
+          "unit": "905",
+          "area": 35.48,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-906",
+          "block": "2",
+          "unit": "906",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-907",
+          "block": "2",
+          "unit": "907",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-908",
+          "block": "2",
+          "unit": "908",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-909",
+          "block": "2",
+          "unit": "909",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-1001",
+          "block": "2",
+          "unit": "1001",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-1002",
+          "block": "2",
+          "unit": "1002",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-1003",
+          "block": "2",
+          "unit": "1003",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-1007",
+          "block": "2",
+          "unit": "1007",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-1008",
+          "block": "2",
+          "unit": "1008",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-1009",
+          "block": "2",
+          "unit": "1009",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-1010",
+          "block": "2",
+          "unit": "1010",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-1011",
+          "block": "2",
+          "unit": "1011",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-1012",
+          "block": "2",
+          "unit": "1012",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-1013",
+          "block": "2",
+          "unit": "1013",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "2-01-1103",
+          "block": "2",
+          "unit": "1103",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-1105",
+          "block": "2",
+          "unit": "1105",
+          "area": 35.48,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-1108",
+          "block": "2",
+          "unit": "1108",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-1109",
+          "block": "2",
+          "unit": "1109",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-1201",
+          "block": "2",
+          "unit": "1201",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1202",
+          "block": "2",
+          "unit": "1202",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1203",
+          "block": "2",
+          "unit": "1203",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1205",
+          "block": "2",
+          "unit": "1205",
+          "area": 35.48,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1206",
+          "block": "2",
+          "unit": "1206",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1207",
+          "block": "2",
+          "unit": "1207",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1208",
+          "block": "2",
+          "unit": "1208",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1209",
+          "block": "2",
+          "unit": "1209",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1301",
+          "block": "2",
+          "unit": "1301",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1302",
+          "block": "2",
+          "unit": "1302",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1303",
+          "block": "2",
+          "unit": "1303",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1305",
+          "block": "2",
+          "unit": "1305",
+          "area": 35.48,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1306",
+          "block": "2",
+          "unit": "1306",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1307",
+          "block": "2",
+          "unit": "1307",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1308",
+          "block": "2",
+          "unit": "1308",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1309",
+          "block": "2",
+          "unit": "1309",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1401",
+          "block": "2",
+          "unit": "1401",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1402",
+          "block": "2",
+          "unit": "1402",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1403",
+          "block": "2",
+          "unit": "1403",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1405",
+          "block": "2",
+          "unit": "1405",
+          "area": 35.48,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1406",
+          "block": "2",
+          "unit": "1406",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1407",
+          "block": "2",
+          "unit": "1407",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1408",
+          "block": "2",
+          "unit": "1408",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1409",
+          "block": "2",
+          "unit": "1409",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1501",
+          "block": "2",
+          "unit": "1501",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1502",
+          "block": "2",
+          "unit": "1502",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1503",
+          "block": "2",
+          "unit": "1503",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1505",
+          "block": "2",
+          "unit": "1505",
+          "area": 35.48,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1506",
+          "block": "2",
+          "unit": "1506",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1507",
+          "block": "2",
+          "unit": "1507",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1508",
+          "block": "2",
+          "unit": "1508",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1509",
+          "block": "2",
+          "unit": "1509",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1601",
+          "block": "2",
+          "unit": "1601",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1602",
+          "block": "2",
+          "unit": "1602",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1603",
+          "block": "2",
+          "unit": "1603",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1605",
+          "block": "2",
+          "unit": "1605",
+          "area": 35.48,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1606",
+          "block": "2",
+          "unit": "1606",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1607",
+          "block": "2",
+          "unit": "1607",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1608",
+          "block": "2",
+          "unit": "1608",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1609",
+          "block": "2",
+          "unit": "1609",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1701",
+          "block": "2",
+          "unit": "1701",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1702",
+          "block": "2",
+          "unit": "1702",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1703",
+          "block": "2",
+          "unit": "1703",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1705",
+          "block": "2",
+          "unit": "1705",
+          "area": 35.48,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1706",
+          "block": "2",
+          "unit": "1706",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-1707",
+          "block": "2",
+          "unit": "1707",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1708",
+          "block": "2",
+          "unit": "1708",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-1709",
+          "block": "2",
+          "unit": "1709",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-2010",
+          "block": "2",
+          "unit": "2010",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-2011",
+          "block": "2",
+          "unit": "2011",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-2012",
+          "block": "2",
+          "unit": "2012",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-2013",
+          "block": "2",
+          "unit": "2013",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "2-01-3010",
+          "block": "2",
+          "unit": "3010",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-3011",
+          "block": "2",
+          "unit": "3011",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-3012",
+          "block": "2",
+          "unit": "3012",
+          "area": 35.33,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-3013",
+          "block": "2",
+          "unit": "3013",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "2-01-4011",
+          "block": "2",
+          "unit": "4011",
+          "area": 35.7,
+          "totalPrice": 249000.0
+        },
+        {
+          "id": "2-01-4013",
+          "block": "2",
+          "unit": "4013",
+          "area": 39.4,
+          "totalPrice": 267000.0
+        },
+        {
+          "id": "2-01-6010",
+          "block": "2",
+          "unit": "6010",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-6011",
+          "block": "2",
+          "unit": "6011",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-6012",
+          "block": "2",
+          "unit": "6012",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-6013",
+          "block": "2",
+          "unit": "6013",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-7010",
+          "block": "2",
+          "unit": "7010",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-7011",
+          "block": "2",
+          "unit": "7011",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-7012",
+          "block": "2",
+          "unit": "7012",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-7013",
+          "block": "2",
+          "unit": "7013",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-8010",
+          "block": "2",
+          "unit": "8010",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-8011",
+          "block": "2",
+          "unit": "8011",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-8012",
+          "block": "2",
+          "unit": "8012",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-8013",
+          "block": "2",
+          "unit": "8013",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-9010",
+          "block": "2",
+          "unit": "9010",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-9011",
+          "block": "2",
+          "unit": "9011",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-9012",
+          "block": "2",
+          "unit": "9012",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-9013",
+          "block": "2",
+          "unit": "9013",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-10010",
+          "block": "2",
+          "unit": "10010",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-10011",
+          "block": "2",
+          "unit": "10011",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-10012",
+          "block": "2",
+          "unit": "10012",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-10013",
+          "block": "2",
+          "unit": "10013",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-11010",
+          "block": "2",
+          "unit": "11010",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-11011",
+          "block": "2",
+          "unit": "11011",
+          "area": 35.7,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-11012",
+          "block": "2",
+          "unit": "11012",
+          "area": 35.33,
+          "totalPrice": 254000.0
+        },
+        {
+          "id": "2-01-11013",
+          "block": "2",
+          "unit": "11013",
+          "area": 39.4,
+          "totalPrice": 272000.0
+        },
+        {
+          "id": "2-01-12010",
+          "block": "2",
+          "unit": "12010",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-12011",
+          "block": "2",
+          "unit": "12011",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-12012",
+          "block": "2",
+          "unit": "12012",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-12013",
+          "block": "2",
+          "unit": "12013",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-13010",
+          "block": "2",
+          "unit": "13010",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-13011",
+          "block": "2",
+          "unit": "13011",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-13012",
+          "block": "2",
+          "unit": "13012",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-13013",
+          "block": "2",
+          "unit": "13013",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-14010",
+          "block": "2",
+          "unit": "14010",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-14011",
+          "block": "2",
+          "unit": "14011",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-14012",
+          "block": "2",
+          "unit": "14012",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-14013",
+          "block": "2",
+          "unit": "14013",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-15010",
+          "block": "2",
+          "unit": "15010",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-15011",
+          "block": "2",
+          "unit": "15011",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-15012",
+          "block": "2",
+          "unit": "15012",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-15013",
+          "block": "2",
+          "unit": "15013",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-16010",
+          "block": "2",
+          "unit": "16010",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-16011",
+          "block": "2",
+          "unit": "16011",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-16012",
+          "block": "2",
+          "unit": "16012",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-16013",
+          "block": "2",
+          "unit": "16013",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        },
+        {
+          "id": "2-01-17010",
+          "block": "2",
+          "unit": "17010",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-17011",
+          "block": "2",
+          "unit": "17011",
+          "area": 35.7,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-17012",
+          "block": "2",
+          "unit": "17012",
+          "area": 35.33,
+          "totalPrice": 259000.0
+        },
+        {
+          "id": "2-01-17013",
+          "block": "2",
+          "unit": "17013",
+          "area": 39.4,
+          "totalPrice": 277000.0
+        }
+      ],
+      "financingForecast": "2027-01-26"
+    },
+    {
+      "id": "sense-residencial",
+      "name": "Sense Residencial",
+      "city": "",
+      "state": "",
+      "deliveryDate": "",
+      "units": [
+        {
+          "id": "ÚNICO-ÚNICA-1",
+          "block": "ÚNICO",
+          "unit": "1",
+          "area": 71.81,
+          "totalPrice": 524149.66
+        },
+        {
+          "id": "ÚNICO-ÚNICA-4",
+          "block": "ÚNICO",
+          "unit": "4",
+          "area": 71.81,
+          "totalPrice": 524149.66
+        },
+        {
+          "id": "ÚNICO-ÚNICA-11",
+          "block": "ÚNICO",
+          "unit": "11",
+          "area": 71.39,
+          "totalPrice": 532927.49
+        },
+        {
+          "id": "ÚNICO-ÚNICA-14",
+          "block": "ÚNICO",
+          "unit": "14",
+          "area": 71.39,
+          "totalPrice": 589477.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-15",
+          "block": "ÚNICO",
+          "unit": "15",
+          "area": 71.39,
+          "totalPrice": 589477.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-18",
+          "block": "ÚNICO",
+          "unit": "18",
+          "area": 71.39,
+          "totalPrice": 603925.38
+        },
+        {
+          "id": "ÚNICO-ÚNICA-21",
+          "block": "ÚNICO",
+          "unit": "21",
+          "area": 71.39,
+          "totalPrice": 532927.49
+        },
+        {
+          "id": "ÚNICO-ÚNICA-24",
+          "block": "ÚNICO",
+          "unit": "24",
+          "area": 71.39,
+          "totalPrice": 589477.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-25",
+          "block": "ÚNICO",
+          "unit": "25",
+          "area": 71.39,
+          "totalPrice": 589477.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-28",
+          "block": "ÚNICO",
+          "unit": "28",
+          "area": 71.39,
+          "totalPrice": 603925.38
+        },
+        {
+          "id": "ÚNICO-ÚNICA-34",
+          "block": "ÚNICO",
+          "unit": "34",
+          "area": 71.39,
+          "totalPrice": 589477.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-35",
+          "block": "ÚNICO",
+          "unit": "35",
+          "area": 71.39,
+          "totalPrice": 589477.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-38",
+          "block": "ÚNICO",
+          "unit": "38",
+          "area": 71.39,
+          "totalPrice": 603925.38
+        },
+        {
+          "id": "ÚNICO-ÚNICA-44",
+          "block": "ÚNICO",
+          "unit": "44",
+          "area": 71.39,
+          "totalPrice": 589477.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-45",
+          "block": "ÚNICO",
+          "unit": "45",
+          "area": 71.39,
+          "totalPrice": 589477.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-48",
+          "block": "ÚNICO",
+          "unit": "48",
+          "area": 71.39,
+          "totalPrice": 603925.38
+        },
+        {
+          "id": "ÚNICO-ÚNICA-54",
+          "block": "ÚNICO",
+          "unit": "54",
+          "area": 71.39,
+          "totalPrice": 595431.84
+        },
+        {
+          "id": "ÚNICO-ÚNICA-55",
+          "block": "ÚNICO",
+          "unit": "55",
+          "area": 71.39,
+          "totalPrice": 595431.84
+        },
+        {
+          "id": "ÚNICO-ÚNICA-58",
+          "block": "ÚNICO",
+          "unit": "58",
+          "area": 71.39,
+          "totalPrice": 610025.82
+        },
+        {
+          "id": "ÚNICO-ÚNICA-95",
+          "block": "ÚNICO",
+          "unit": "95",
+          "area": 71.39,
+          "totalPrice": 595431.84
+        },
+        {
+          "id": "ÚNICO-ÚNICA-101",
+          "block": "ÚNICO",
+          "unit": "101",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-104",
+          "block": "ÚNICO",
+          "unit": "104",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-111",
+          "block": "ÚNICO",
+          "unit": "111",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-114",
+          "block": "ÚNICO",
+          "unit": "114",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-115",
+          "block": "ÚNICO",
+          "unit": "115",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-121",
+          "block": "ÚNICO",
+          "unit": "121",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-124",
+          "block": "ÚNICO",
+          "unit": "124",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-125",
+          "block": "ÚNICO",
+          "unit": "125",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-134",
+          "block": "ÚNICO",
+          "unit": "134",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-135",
+          "block": "ÚNICO",
+          "unit": "135",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-144",
+          "block": "ÚNICO",
+          "unit": "144",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-145",
+          "block": "ÚNICO",
+          "unit": "145",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-151",
+          "block": "ÚNICO",
+          "unit": "151",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-154",
+          "block": "ÚNICO",
+          "unit": "154",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-155",
+          "block": "ÚNICO",
+          "unit": "155",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-161",
+          "block": "ÚNICO",
+          "unit": "161",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-164",
+          "block": "ÚNICO",
+          "unit": "164",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-165",
+          "block": "ÚNICO",
+          "unit": "165",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-171",
+          "block": "ÚNICO",
+          "unit": "171",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        },
+        {
+          "id": "ÚNICO-ÚNICA-174",
+          "block": "ÚNICO",
+          "unit": "174",
+          "area": 71.39,
+          "totalPrice": 638752.53
+        }
+      ],
+      "financingForecast": "2027-01-26"
+    },
+    {
+      "id": "urban",
+      "name": "Urban",
+      "city": "",
+      "state": "",
+      "deliveryDate": "",
+      "units": [
+        {
+          "id": "1-01-1",
+          "block": "1",
+          "unit": "1",
+          "area": 67.72,
+          "totalPrice": 491304.2
+        },
+        {
+          "id": "1-01-3",
+          "block": "1",
+          "unit": "3",
+          "area": 71.09,
+          "totalPrice": 504266.25
+        },
+        {
+          "id": "1-01-4",
+          "block": "1",
+          "unit": "4",
+          "area": 71.16,
+          "totalPrice": 504557.07
+        },
+        {
+          "id": "1-01-5",
+          "block": "1",
+          "unit": "5",
+          "area": 67.72,
+          "totalPrice": 491304.2
+        },
+        {
+          "id": "1-01-6",
+          "block": "1",
+          "unit": "6",
+          "area": 67.72,
+          "totalPrice": 479481.95
+        },
+        {
+          "id": "1-01-7",
+          "block": "1",
+          "unit": "7",
+          "area": 70.71,
+          "totalPrice": 490571.02
+        },
+        {
+          "id": "1-01-8",
+          "block": "1",
+          "unit": "8",
+          "area": 70.75,
+          "totalPrice": 490732.9
+        },
+        {
+          "id": "1-01-9",
+          "block": "1",
+          "unit": "9",
+          "area": 70.57,
+          "totalPrice": 489356.88
+        },
+        {
+          "id": "1-01-10",
+          "block": "1",
+          "unit": "10",
+          "area": 67.72,
+          "totalPrice": 479481.95
+        },
+        {
+          "id": "1-01-11",
+          "block": "1",
+          "unit": "11",
+          "area": 62.55,
+          "totalPrice": 433251.95
+        },
+        {
+          "id": "1-01-13",
+          "block": "1",
+          "unit": "13",
+          "area": 49.01,
+          "totalPrice": 430920.65
+        },
+        {
+          "id": "1-01-14",
+          "block": "1",
+          "unit": "14",
+          "area": 61.01,
+          "totalPrice": 420183.81
+        },
+        {
+          "id": "1-01-15",
+          "block": "1",
+          "unit": "15",
+          "area": 62.55,
+          "totalPrice": 433251.95
+        },
+        {
+          "id": "1-01-16",
+          "block": "1",
+          "unit": "16",
+          "area": 62.55,
+          "totalPrice": 422302.76
+        },
+        {
+          "id": "1-01-18",
+          "block": "1",
+          "unit": "18",
+          "area": 49.01,
+          "totalPrice": 420659.41
+        },
+        {
+          "id": "1-01-22",
+          "block": "1",
+          "unit": "22",
+          "area": 62.25,
+          "totalPrice": 430706.2
+        },
+        {
+          "id": "1-01-24",
+          "block": "1",
+          "unit": "24",
+          "area": 61.01,
+          "totalPrice": 420183.81
+        },
+        {
+          "id": "1-01-25",
+          "block": "1",
+          "unit": "25",
+          "area": 62.55,
+          "totalPrice": 433251.95
+        },
+        {
+          "id": "1-01-29",
+          "block": "1",
+          "unit": "29",
+          "area": 62.25,
+          "totalPrice": 419822.83
+        },
+        {
+          "id": "1-01-32",
+          "block": "1",
+          "unit": "32",
+          "area": 62.25,
+          "totalPrice": 430706.2
+        },
+        {
+          "id": "1-01-35",
+          "block": "1",
+          "unit": "35",
+          "area": 62.55,
+          "totalPrice": 433251.95
+        },
+        {
+          "id": "1-01-42",
+          "block": "1",
+          "unit": "42",
+          "area": 62.25,
+          "totalPrice": 430706.2
+        },
+        {
+          "id": "1-01-44",
+          "block": "1",
+          "unit": "44",
+          "area": 61.01,
+          "totalPrice": 420183.81
+        },
+        {
+          "id": "1-01-45",
+          "block": "1",
+          "unit": "45",
+          "area": 50.55,
+          "totalPrice": 443988.78
+        },
+        {
+          "id": "1-01-49",
+          "block": "1",
+          "unit": "49",
+          "area": 62.25,
+          "totalPrice": 430706.2
+        },
+        {
+          "id": "1-01-53",
+          "block": "1",
+          "unit": "53",
+          "area": 49.01,
+          "totalPrice": 430920.65
+        },
+        {
+          "id": "1-01-55",
+          "block": "1",
+          "unit": "55",
+          "area": 62.55,
+          "totalPrice": 433251.95
+        },
+        {
+          "id": "1-01-57",
+          "block": "1",
+          "unit": "57",
+          "area": 61.01,
+          "totalPrice": 420183.81
+        },
+        {
+          "id": "1-01-62",
+          "block": "1",
+          "unit": "62",
+          "area": 62.25,
+          "totalPrice": 439589.78
+        },
+        {
+          "id": "1-01-65",
+          "block": "1",
+          "unit": "65",
+          "area": 62.55,
+          "totalPrice": 442188.55
+        },
+        {
+          "id": "1-01-66",
+          "block": "1",
+          "unit": "66",
+          "area": 62.55,
+          "totalPrice": 442188.55
+        },
+        {
+          "id": "1-01-67",
+          "block": "1",
+          "unit": "67",
+          "area": 49.01,
+          "totalPrice": 439585.0
+        },
+        {
+          "id": "1-01-68",
+          "block": "1",
+          "unit": "68",
+          "area": 61.01,
+          "totalPrice": 428848.17
+        },
+        {
+          "id": "1-01-69",
+          "block": "1",
+          "unit": "69",
+          "area": 62.25,
+          "totalPrice": 439589.78
+        },
+        {
+          "id": "1-01-73",
+          "block": "1",
+          "unit": "73",
+          "area": 49.01,
+          "totalPrice": 439585.0
+        },
+        {
+          "id": "1-01-75",
+          "block": "1",
+          "unit": "75",
+          "area": 62.55,
+          "totalPrice": 442188.55
+        },
+        {
+          "id": "1-01-76",
+          "block": "1",
+          "unit": "76",
+          "area": 62.55,
+          "totalPrice": 442188.55
+        },
+        {
+          "id": "1-01-77",
+          "block": "1",
+          "unit": "77",
+          "area": 61.01,
+          "totalPrice": 428848.17
+        },
+        {
+          "id": "1-01-78",
+          "block": "1",
+          "unit": "78",
+          "area": 49.01,
+          "totalPrice": 439585.0
+        },
+        {
+          "id": "1-01-79",
+          "block": "1",
+          "unit": "79",
+          "area": 62.25,
+          "totalPrice": 439589.78
+        },
+        {
+          "id": "1-01-81",
+          "block": "1",
+          "unit": "81",
+          "area": 62.55,
+          "totalPrice": 442188.55
+        },
+        {
+          "id": "1-01-82",
+          "block": "1",
+          "unit": "82",
+          "area": 62.25,
+          "totalPrice": 439589.78
+        },
+        {
+          "id": "1-01-87",
+          "block": "1",
+          "unit": "87",
+          "area": 61.01,
+          "totalPrice": 428848.17
+        },
+        {
+          "id": "1-01-89",
+          "block": "1",
+          "unit": "89",
+          "area": 50.25,
+          "totalPrice": 450326.61
+        },
+        {
+          "id": "1-01-94",
+          "block": "1",
+          "unit": "94",
+          "area": 49.01,
+          "totalPrice": 439585.0
+        },
+        {
+          "id": "1-01-98",
+          "block": "1",
+          "unit": "98",
+          "area": 49.01,
+          "totalPrice": 439585.0
+        },
+        {
+          "id": "1-01-99",
+          "block": "1",
+          "unit": "99",
+          "area": 50.25,
+          "totalPrice": 450326.61
+        },
+        {
+          "id": "1-01-103",
+          "block": "1",
+          "unit": "103",
+          "area": 49.01,
+          "totalPrice": 439585.0
+        },
+        {
+          "id": "1-01-104",
+          "block": "1",
+          "unit": "104",
+          "area": 49.01,
+          "totalPrice": 439585.0
+        },
+        {
+          "id": "1-01-107",
+          "block": "1",
+          "unit": "107",
+          "area": 49.01,
+          "totalPrice": 439585.0
+        },
+        {
+          "id": "1-01-109",
+          "block": "1",
+          "unit": "109",
+          "area": 50.25,
+          "totalPrice": 450326.61
+        },
+        {
+          "id": "1-01-110",
+          "block": "1",
+          "unit": "110",
+          "area": 64.3,
+          "totalPrice": 422302.76
+        },
+        {
+          "id": "1-01-112",
+          "block": "1",
+          "unit": "112",
+          "area": 50.25,
+          "totalPrice": 459210.19
+        },
+        {
+          "id": "1-01-113",
+          "block": "1",
+          "unit": "113",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-114",
+          "block": "1",
+          "unit": "114",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-116",
+          "block": "1",
+          "unit": "116",
+          "area": 50.55,
+          "totalPrice": 461862.0
+        },
+        {
+          "id": "1-01-117",
+          "block": "1",
+          "unit": "117",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-118",
+          "block": "1",
+          "unit": "118",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-123",
+          "block": "1",
+          "unit": "123",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-124",
+          "block": "1",
+          "unit": "124",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-127",
+          "block": "1",
+          "unit": "127",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-128",
+          "block": "1",
+          "unit": "128",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-129",
+          "block": "1",
+          "unit": "129",
+          "area": 50.25,
+          "totalPrice": 459210.19
+        },
+        {
+          "id": "1-01-132",
+          "block": "1",
+          "unit": "132",
+          "area": 50.25,
+          "totalPrice": 459210.19
+        },
+        {
+          "id": "1-01-134",
+          "block": "1",
+          "unit": "134",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-137",
+          "block": "1",
+          "unit": "137",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-138",
+          "block": "1",
+          "unit": "138",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-139",
+          "block": "1",
+          "unit": "139",
+          "area": 50.25,
+          "totalPrice": 459210.19
+        },
+        {
+          "id": "1-01-142",
+          "block": "1",
+          "unit": "142",
+          "area": 50.25,
+          "totalPrice": 459210.19
+        },
+        {
+          "id": "1-01-143",
+          "block": "1",
+          "unit": "143",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-146",
+          "block": "1",
+          "unit": "146",
+          "area": 50.55,
+          "totalPrice": 461862.0
+        },
+        {
+          "id": "1-01-147",
+          "block": "1",
+          "unit": "147",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-148",
+          "block": "1",
+          "unit": "148",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-149",
+          "block": "1",
+          "unit": "149",
+          "area": 50.25,
+          "totalPrice": 459210.19
+        },
+        {
+          "id": "1-01-152",
+          "block": "1",
+          "unit": "152",
+          "area": 50.25,
+          "totalPrice": 459210.19
+        },
+        {
+          "id": "1-01-153",
+          "block": "1",
+          "unit": "153",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-154",
+          "block": "1",
+          "unit": "154",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-155",
+          "block": "1",
+          "unit": "155",
+          "area": 50.55,
+          "totalPrice": 461862.0
+        },
+        {
+          "id": "1-01-156",
+          "block": "1",
+          "unit": "156",
+          "area": 50.55,
+          "totalPrice": 461862.0
+        },
+        {
+          "id": "1-01-157",
+          "block": "1",
+          "unit": "157",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-158",
+          "block": "1",
+          "unit": "158",
+          "area": 49.01,
+          "totalPrice": 448249.36
+        },
+        {
+          "id": "1-01-159",
+          "block": "1",
+          "unit": "159",
+          "area": 50.25,
+          "totalPrice": 459210.19
+        },
+        {
+          "id": "1-01-162",
+          "block": "1",
+          "unit": "162",
+          "area": 50.25,
+          "totalPrice": 468093.76
+        },
+        {
+          "id": "1-01-163",
+          "block": "1",
+          "unit": "163",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-164",
+          "block": "1",
+          "unit": "164",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-167",
+          "block": "1",
+          "unit": "167",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-168",
+          "block": "1",
+          "unit": "168",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-169",
+          "block": "1",
+          "unit": "169",
+          "area": 50.25,
+          "totalPrice": 468093.76
+        },
+        {
+          "id": "1-01-172",
+          "block": "1",
+          "unit": "172",
+          "area": 50.25,
+          "totalPrice": 468093.76
+        },
+        {
+          "id": "1-01-173",
+          "block": "1",
+          "unit": "173",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-174",
+          "block": "1",
+          "unit": "174",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-177",
+          "block": "1",
+          "unit": "177",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-178",
+          "block": "1",
+          "unit": "178",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-179",
+          "block": "1",
+          "unit": "179",
+          "area": 50.25,
+          "totalPrice": 468093.76
+        },
+        {
+          "id": "1-01-182",
+          "block": "1",
+          "unit": "182",
+          "area": 50.25,
+          "totalPrice": 468093.76
+        },
+        {
+          "id": "1-01-183",
+          "block": "1",
+          "unit": "183",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-184",
+          "block": "1",
+          "unit": "184",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-185",
+          "block": "1",
+          "unit": "185",
+          "area": 50.55,
+          "totalPrice": 470798.62
+        },
+        {
+          "id": "1-01-186",
+          "block": "1",
+          "unit": "186",
+          "area": 50.55,
+          "totalPrice": 470798.62
+        },
+        {
+          "id": "1-01-187",
+          "block": "1",
+          "unit": "187",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-188",
+          "block": "1",
+          "unit": "188",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-189",
+          "block": "1",
+          "unit": "189",
+          "area": 50.25,
+          "totalPrice": 468093.76
+        },
+        {
+          "id": "1-01-192",
+          "block": "1",
+          "unit": "192",
+          "area": 50.25,
+          "totalPrice": 468093.76
+        },
+        {
+          "id": "1-01-193",
+          "block": "1",
+          "unit": "193",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-194",
+          "block": "1",
+          "unit": "194",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-195",
+          "block": "1",
+          "unit": "195",
+          "area": 50.55,
+          "totalPrice": 470798.62
+        },
+        {
+          "id": "1-01-196",
+          "block": "1",
+          "unit": "196",
+          "area": 50.55,
+          "totalPrice": 470798.62
+        },
+        {
+          "id": "1-01-197",
+          "block": "1",
+          "unit": "197",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-198",
+          "block": "1",
+          "unit": "198",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-201",
+          "block": "1",
+          "unit": "201",
+          "area": 50.55,
+          "totalPrice": 470798.62
+        },
+        {
+          "id": "1-01-204",
+          "block": "1",
+          "unit": "204",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-206",
+          "block": "1",
+          "unit": "206",
+          "area": 50.55,
+          "totalPrice": 470798.62
+        },
+        {
+          "id": "1-01-207",
+          "block": "1",
+          "unit": "207",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-208",
+          "block": "1",
+          "unit": "208",
+          "area": 49.01,
+          "totalPrice": 456913.72
+        },
+        {
+          "id": "1-01-212",
+          "block": "1",
+          "unit": "212",
+          "area": 50.25,
+          "totalPrice": 476977.34
+        },
+        {
+          "id": "1-01-213",
+          "block": "1",
+          "unit": "213",
+          "area": 49.01,
+          "totalPrice": 465578.07
+        },
+        {
+          "id": "1-01-214",
+          "block": "1",
+          "unit": "214",
+          "area": 49.01,
+          "totalPrice": 465578.07
+        },
+        {
+          "id": "1-01-215",
+          "block": "1",
+          "unit": "215",
+          "area": 50.55,
+          "totalPrice": 479735.22
+        },
+        {
+          "id": "1-01-217",
+          "block": "1",
+          "unit": "217",
+          "area": 49.01,
+          "totalPrice": 465578.07
+        },
+        {
+          "id": "1-01-218",
+          "block": "1",
+          "unit": "218",
+          "area": 49.01,
+          "totalPrice": 465578.07
+        },
+        {
+          "id": "1-01-219",
+          "block": "1",
+          "unit": "219",
+          "area": 50.25,
+          "totalPrice": 476977.34
+        },
+        {
+          "id": "1-01-221",
+          "block": "1",
+          "unit": "221",
+          "area": 50.55,
+          "totalPrice": 479735.22
+        },
+        {
+          "id": "1-01-222",
+          "block": "1",
+          "unit": "222",
+          "area": 50.25,
+          "totalPrice": 476977.34
+        },
+        {
+          "id": "1-01-223",
+          "block": "1",
+          "unit": "223",
+          "area": 49.01,
+          "totalPrice": 465578.07
+        },
+        {
+          "id": "1-01-224",
+          "block": "1",
+          "unit": "224",
+          "area": 49.01,
+          "totalPrice": 465578.07
+        },
+        {
+          "id": "1-01-226",
+          "block": "1",
+          "unit": "226",
+          "area": 50.55,
+          "totalPrice": 479735.22
+        },
+        {
+          "id": "1-01-227",
+          "block": "1",
+          "unit": "227",
+          "area": 49.01,
+          "totalPrice": 465578.07
+        },
+        {
+          "id": "1-01-228",
+          "block": "1",
+          "unit": "228",
+          "area": 49.01,
+          "totalPrice": 465578.07
+        },
+        {
+          "id": "1-01-229",
+          "block": "1",
+          "unit": "229",
+          "area": 50.25,
+          "totalPrice": 476977.34
+        },
+        {
+          "id": "1-01-310",
+          "block": "1",
+          "unit": "310",
+          "area": 62.55,
+          "totalPrice": 422302.76
+        },
+        {
+          "id": "1-01-1110",
+          "block": "1",
+          "unit": "1110",
+          "area": 50.55,
+          "totalPrice": 461862.0
+        },
+        {
+          "id": "1-01-1210",
+          "block": "1",
+          "unit": "1210",
+          "area": 50.55,
+          "totalPrice": 461862.0
+        },
+        {
+          "id": "1-01-1310",
+          "block": "1",
+          "unit": "1310",
+          "area": 50.55,
+          "totalPrice": 461862.0
+        },
+        {
+          "id": "1-01-1510",
+          "block": "1",
+          "unit": "1510",
+          "area": 50.55,
+          "totalPrice": 461862.0
+        },
+        {
+          "id": "1-01-1610",
+          "block": "1",
+          "unit": "1610",
+          "area": 50.55,
+          "totalPrice": 470798.62
+        },
+        {
+          "id": "1-01-1710",
+          "block": "1",
+          "unit": "1710",
+          "area": 50.55,
+          "totalPrice": 470798.62
+        },
+        {
+          "id": "1-01-2110",
+          "block": "1",
+          "unit": "2110",
+          "area": 50.55,
+          "totalPrice": 479735.22
+        },
+        {
+          "id": "1-01-2210",
+          "block": "1",
+          "unit": "2210",
+          "area": 50.55,
+          "totalPrice": 479735.22
+        }
+      ],
+      "financingForecast": "2027-01-26"
+    },
+    {
+      "id": "vila-marina",
+      "name": "Vila Marina",
+      "city": "",
+      "state": "",
+      "deliveryDate": "",
+      "units": [
+        {
+          "id": "5-01-31",
+          "block": "5",
+          "unit": "31",
+          "area": 65.431,
+          "totalPrice": 356280.0
+        },
+        {
+          "id": "5-01-33",
+          "block": "5",
+          "unit": "33",
+          "area": 65.431,
+          "totalPrice": 356280.0
+        },
+        {
+          "id": "5-01-41",
+          "block": "5",
+          "unit": "41",
+          "area": 65.431,
+          "totalPrice": 356280.0
+        }
+      ],
+      "financingForecast": "2027-01-26"
+    }
+  ]
+}
